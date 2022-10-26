@@ -1,0 +1,35 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmucene/team-profile-generator.git"
+  },
+  "author": "Mila Decker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmucene/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Jmucene/team-profile-generator#readme",
+  "description": ""
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
